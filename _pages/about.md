@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.stevens.edu">Department of Computer Science, Stevens Institute of Technology</a>
 
 profile:
   align: right
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Pengfei Hu. I'm a 3rd year Ph.D. student in Department of Computer Science at [Stevens Institute of Technology]([https://www.emory.edu/home/index.html](https://www.stevens.edu/school-engineering-science/departments/computer-science)), co-advised by Prof. [Yue Ning](https://yue-ning.github.io) and Prof. [Ping Wang](https://leafnlp.org/ping). Before that, I obtained my master's degree from the Viterbi School of Engineering, [University of Southern California](https://viterbischool.usc.edu) in 2023, where I worked with Prof. [Sze-chuan Suen](https://viterbi.usc.edu/directory/faculty/Suen/Sze-chuan).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research concentrates on predictive healthcare on electronic health records (EHR), with a specific focus on augmented (e.g. [knowledge-guided](https://arxiv.org/abs/2410.19955) and [retrieval augmented](https://arxiv.org/abs/2505.16288)) language models and their robustness under domain shifts. I have also worked on graph neural networks and [llm agents](https://arxiv.org/abs/2505.16288).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to drop me an email (`phu9 at stevens dot edu`) if you have any questions about my research, or want to discuss about potential collaborations.
+
+**<span style="color:red">I am looking for internship/fulltime industrial opportunities, starting from Spring 2025. Feel free to reach out if there is a good fit!</span>**
