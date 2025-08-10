@@ -32,4 +32,4 @@ My current research concentrates on predictive healthcare on electronic health r
 
 Feel free to drop me an email (`phu9 at stevens dot edu`) if you have any questions about my research, or want to discuss about potential collaborations.
 
-**<span style="color:red">I am looking for internship/fulltime industrial opportunities, starting from Spring 2025. Feel free to reach out if there is a good fit!</span>**
+**<span style="color:red">I am looking for internship/fulltime industrial opportunities, starting from Summer 2026. Feel free to reach out if there is a good fit!</span>**
