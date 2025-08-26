@@ -23,16 +23,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-i-passed-my-written-qualification-exam",
+          title: 'I passed my written qualification exam.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-ii-kea-is-accepted-by-emnlp-2025-findings",
+          title: 'Our paper II-KEA is accepted by EMNLP 2025 Findings!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-passed-my-oral-qualification-exam",
+          title: 'I passed my oral qualification exam.',
+          description: "",
+          section: "News",},{id: "news-i-will-be-joining-the-oak-ridge-national-lab-as-a-summer-graduate-research-intern",
+          title: 'I will be joining the Oak Ridge National Lab as a summer graduate...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
