@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/cv.pdf";
           },
+        },{id: "nav-misc",
+          title: "Misc",
+          description: "Academic Services, Awards and Others",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order. Full list is available on my Google Scholar.",
