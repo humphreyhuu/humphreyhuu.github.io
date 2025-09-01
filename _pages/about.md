@@ -12,6 +12,7 @@ profile:
     <p>Gateway South 433</p>
     <p>1 Castle Point Terrace, Hoboken, NJ 07030</p>
 
+education: true # added by myself
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
