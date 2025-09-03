@@ -45,6 +45,11 @@ layout: default
       {% include education.liquid %}
     {% endif %}
 
+    <!-- Industrial Experience -->
+    {% if page.work %}
+      {% include work.liquid %}
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
