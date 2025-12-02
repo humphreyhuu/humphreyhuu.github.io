@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My intern paper AdaTrip and HydroDCM are accepted by the ICDM 2025 Workshop on Data Mining in Earth System Science and the AAAI 2026 Workshop (Oral) on AI for Environmental Science Workshop, respectively. Extended version is underreviewed by journals.
+My intern paper AdaTrip and HydroDCM are accepted by the ICDM 2025 DMESS and the AAAI 2026 AI4ES (Oral) workshops. Extended versions are underreviewed by journals.
