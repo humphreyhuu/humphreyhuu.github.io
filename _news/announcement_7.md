@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *AGFormer: Adaptive Spatiotemporal graph informed transformer for multi-reservoir inflow forecasting* is accepted to Environmental Modelling \& Software (IF: 4.6).
+Our paper *AGFormer: Adaptive Spatiotemporal graph informed transformer for multi-reservoir inflow forecasting* is accepted to Environmental Modelling & Software (IF: 4.6).
