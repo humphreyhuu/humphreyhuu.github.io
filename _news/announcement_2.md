@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-10 15:59:00-0400
+date: 2025-5-19 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I passed my oral qualification exam.
+I will be joining the Oak Ridge National Lab as a summer graduate research intern.
