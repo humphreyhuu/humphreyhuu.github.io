@@ -51,7 +51,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-passed-my-thesis-proposal-defense",
           title: 'I passed my Thesis Proposal defense.',
           description: "",
-          section: "News",},{id: "news-our-paper-exploring-accurate-and-transparent-domain-adaptation-in-predictive-healthcare-via-concept-grounded-orthogonal-inference-is-accepted-to-the-43rd-international-conference-on-machine-learning-icml-2026",
+          section: "News",},{id: "news-our-paper-exploring-accurate-and-transparent-domain-adaptation-in-predictive-healthcare-via-concept-grounded-orthogonal-inference-is-accepted-to-icml-2026-see-you-in-seoul",
           title: 'Our paper Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded...',
           description: "",
           section: "News",},{id: "projects-project-1",
