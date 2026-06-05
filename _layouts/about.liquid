@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post about-page">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
@@ -42,20 +42,26 @@ layout: default
 
     <!-- Education -->
     {% if page.education %}
-      {% include education.liquid %}
+      <section class="about-section about-education">
+        {% include education.liquid %}
+      </section>
     {% endif %}
 
     <!-- Industrial Experience -->
     {% if page.work %}
-      {% include work.liquid %}
+      <section class="about-section about-work">
+        {% include work.liquid %}
+      </section>
     {% endif %}
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
+      <section class="about-section about-news">
+        <h2>
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        </h2>
+        {% include news.liquid limit=true %}
+      </section>
     {% endif %}
 
     <!-- Latest posts -->

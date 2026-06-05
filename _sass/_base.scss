@@ -241,6 +241,29 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.about-page {
+  .availability-note {
+    display: inline-block;
+    margin-bottom: 0.75rem;
+  }
+
+  .about-section {
+    margin-top: 1.5rem;
+  }
+
+  .about-section h2 {
+    margin-bottom: 0.75rem;
+  }
+
+  .about-work {
+    margin-bottom: 0.75rem;
+  }
+
+  .about-news {
+    margin-top: 1rem;
+  }
+}
+
 // Navbar customization
 
 .navbar {
