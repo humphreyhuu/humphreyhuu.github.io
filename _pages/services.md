@@ -10,7 +10,7 @@ nav: true
 
 <!-- ###  -->
 
-- **Reviewer**: CIKM 2026; NeurIPS 2026; ICML 2026; ACL Rolling Reviews (bimonthly since July 2025); KDD 2026; AAAI 2026; MICAI 2025; Computers in Biology and Medicine; IEEE Access.
+- **Reviewer**: CIKM 2026; NeurIPS 2026; ICML 2026; ACL Rolling Reviews (bimonthly since July 2025); KDD 2026; AAAI 2026, 2027; MICAI 2025; Computers in Biology and Medicine; IEEE Access.
 
 ### Awards
 - **[2026]**: Best Doctoral Research Poster Award at the iCNS @ Stevens AI Engineering and Science Symposium
